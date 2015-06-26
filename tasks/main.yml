@@ -1,0 +1,2 @@
+---
+- include: logstash_forwarder.yml tags=logstash_forwarder
